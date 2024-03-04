@@ -1,0 +1,14 @@
+body{
+    
+    
+}
+.bg-primary{
+        background: #2196f3!important;
+        
+}
+.banner-background{
+          clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 94%, 69% 100%, 32% 94%, 0 100%, 0 0);
+        }
+
+
+
